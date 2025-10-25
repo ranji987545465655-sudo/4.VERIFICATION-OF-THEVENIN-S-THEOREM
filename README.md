@@ -1,4 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+## NAME: RANJITH K
+## REF NO: 25016481
 
 **AIM:**
 
@@ -49,6 +51,8 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-25 at 12 05 35_0d2dc246](https://github.com/user-attachments/assets/3261a9de-b232-4fe8-9e55-9322db9034e1)
+
 
 
 **PROCEDURE:**
